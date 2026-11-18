@@ -1,0 +1,38 @@
+[
+  {
+    "id": "S1",
+    "title": "OpenADR Alliance FAQ",
+    "url": "https://www.openadr.org/faq",
+    "use": "DR、OpenADR、VTN、VEN、2.0a/2.0b"
+  },
+  {
+    "id": "S2",
+    "title": "OpenADR Specifications",
+    "url": "https://www.openadr.org/specification",
+    "use": "OpenADR 2.0a、2.0b、3 規格定位"
+  },
+  {
+    "id": "S3",
+    "title": "OpenADR Certification Process",
+    "url": "https://www.openadr.org/certification-process",
+    "use": "VTN/VEN 介面與認證邊界"
+  },
+  {
+    "id": "S4",
+    "title": "OpenADR DR Program Guides",
+    "url": "https://www.openadr.org/dr-program-guide",
+    "use": "Demand Response program 類型"
+  },
+  {
+    "id": "S5",
+    "title": "EnergyPlus Official Website",
+    "url": "https://energyplus.net/",
+    "use": "EnergyPlus 與 HVAC/控制/輸出能力"
+  },
+  {
+    "id": "S6",
+    "title": "EnergyPlus Getting Started",
+    "url": "https://energyplus.net/assets/nrel_custom/pdfs/pdfs_v22.2.0/GettingStarted.pdf",
+    "use": "建模前需要的天氣、幾何、使用、控制與 HVAC 資訊"
+  }
+]
